@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ATGroject/static/css/main.1b91e1bf.css",
+    "main.js": "/ATGroject/static/js/main.a24d6037.js",
+    "static/js/787.c6f5fd5d.chunk.js": "/ATGroject/static/js/787.c6f5fd5d.chunk.js",
+    "static/media/edu.png": "/ATGroject/static/media/edu.38325dc5de275bffc9a4.png",
+    "static/media/meet.webp": "/ATGroject/static/media/meet.fbd1e085d06d917b249a.webp",
+    "static/media/img1.png": "/ATGroject/static/media/img1.a097ba020cdfcd0e8f91.png",
+    "static/media/art.png": "/ATGroject/static/media/art.6ab84528dc0e269b536e.png",
+    "static/media/prof.png": "/ATGroject/static/media/prof.c891b8f00f01d36b56e6.png",
+    "static/media/prof4.png": "/ATGroject/static/media/prof4.22c1adbc9c98a88f69bc.png",
+    "static/media/pro2.webp": "/ATGroject/static/media/pro2.255b799b8f18702795ee.webp",
+    "static/media/pro3.webp": "/ATGroject/static/media/pro3.c44e910bea93389f94e5.webp",
+    "index.html": "/ATGroject/index.html",
+    "main.1b91e1bf.css.map": "/ATGroject/static/css/main.1b91e1bf.css.map",
+    "main.a24d6037.js.map": "/ATGroject/static/js/main.a24d6037.js.map",
+    "787.c6f5fd5d.chunk.js.map": "/ATGroject/static/js/787.c6f5fd5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b91e1bf.css",
+    "static/js/main.a24d6037.js"
+  ]
+}
